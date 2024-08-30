@@ -1,2 +1,2 @@
-# Troll-Quiz
-https://e-perko.github.io/Troll-Quiz/
+# Trivia-Test
+https://e-perko.github.io/Trivia Test/
